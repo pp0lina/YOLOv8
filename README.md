@@ -22,7 +22,7 @@ pip install ultralytics
 pip install -r requirements.txt
 ```
 
-### 3. Add your test data to the testData folder
+### 3. Add your test data to the folder of the working directory
 
 ### 4. Run the main.py script
 Adjust the test data path in the script if required.
