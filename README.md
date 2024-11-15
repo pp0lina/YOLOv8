@@ -36,6 +36,6 @@ Adjust the test data path in the script if required.
 2. YOLOv8 Documentation: Detailed documentation and configuration instructions are available on the Ultralytics website.
 
 
-## Future Work
+## Contribution
 
 Feel free to contribute by adding new features or enhancing existing ones—YOLO's functionality is extensive, and this model's implementation remains quite straightforward!
